@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602088577280",
+    "project_id": "skyhi-6adb8",
+    "storage_bucket": "skyhi-6adb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602088577280:android:addf3fd3bd4a2f20e47be5",
+        "android_client_info": {
+          "package_name": "com.testingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602088577280-pc75lgu5js6ofn9bi3enal9pab2ofsfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testingproject",
+            "certificate_hash": "7bd12077e81e3f781a62b57694989a4a202f465b"
+          }
+        },
+        {
+          "client_id": "602088577280-l98tll3udbpdbclg3e292sn7s95fu7it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ObUQjcnCIElmtHxw7u01DI6uAlScG14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602088577280-l98tll3udbpdbclg3e292sn7s95fu7it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
